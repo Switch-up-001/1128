@@ -1,0 +1,21 @@
+{
+  "short_name": "光谱共振",
+  "name": "光谱共振 (Spectrum Resonance)",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/050510/00f2ff.png?text=SR",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/050510/00f2ff.png?text=SR",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#050510",
+  "background_color": "#050510",
+  "orientation": "portrait"
+}
